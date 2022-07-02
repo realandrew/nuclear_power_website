@@ -1,11 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Nuclear Power Website
 
 A website by Andrew Mitchell that explains nuclear power in laymen terms without skipping important details.
 
 ## Utilizing the following
 
-- Nuxt3[link](https://v3.nuxtjs.org)
-- modern-normalize[link](https://github.com/sindresorhus/modern-normalize)
+- Nuxt3 [link](https://v3.nuxtjs.org)
+- modern-normalize [link](https://github.com/sindresorhus/modern-normalize)
 
 ## Setup
 
