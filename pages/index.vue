@@ -1,7 +1,7 @@
 <template>
   <main>
     <h1>This website is under development by <a href="https://andrewjmitchell.com/" target="_blank">Andrew Mitchell</a></h1>
-    <h2>It's also <a href="">open source</a> on GitHub.</h2>
+    <h2>It's also <a href="https://github.com/realandrew/nuclear_power_website">open source</a> on GitHub.</h2>
     <p>The plan for this website is to take the massively complex field of and topics related to nuclear power and turn them into an organized website
     that is easily readable by average people.</p>
     <p>You may ask why? Well, writing about topics I find interesting is something I enjoy doing, as I already 
